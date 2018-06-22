@@ -1,0 +1,30 @@
+[Discord] User ID: 457171725692567554, Bot User: Zero One
+[Discord] Add to your server using this link: 
+[Discord]  https://discordapp.com/oauth2/authorize?client_id=457171725692567554&scope=bot&permissions=67160064
+[Discord] *** Bot ready! ***
+[TwitchNotifier] Reading settings file...
+[Channel - Lions Chaotic Den/#stream-announcement] <ChaoticLion.exe> .help
+[Discord] Sent help page
+[Channel - Lions Chaotic Den/#stream-announcement] <ChaoticLion.exe> .setTwitchNotifyChannel thechaoticlion
+[TwitchNotifier] called manageTwitchModule action: channel, value: thechaoticlion
+[Channel - Lions Chaotic Den/#stream-announcement] <ChaoticLion.exe> .setTwitchNotifyChannel 'thechaoticlion'
+[TwitchNotifier] called manageTwitchModule action: channel, value: 'thechaoticlion'
+[Channel - Lions Chaotic Den/#stream-announcement] <ChaoticLion.exe> .setTwitchNotifyChannel <thechaoticlion>
+[TwitchNotifier] called manageTwitchModule action: channel, value: <thechaoticlion>
+[Channel - Lions Chaotic Den/#stream-announcement] <ChaoticLion.exe> .setTwitchNotifyChannel 451886711384047636
+[TwitchNotifier] called manageTwitchModule action: channel, value: 451886711384047636
+[Channel - Lions Chaotic Den/#stream-announcement] <ChaoticLion.exe> .addstream thechaoticlion
+[TwitchNotifier] called manageTwitchModule action: add, value: thechaoticlion
+[Channel - Lions Chaotic Den/#stream-announcement] <ChaoticLion.exe> .addstream firemonster_tv
+[TwitchNotifier] called manageTwitchModule action: add, value: firemonster_tv
+[Channel - Lions Chaotic Den/#stream-announcement] <ChaoticLion.exe> .addstream rainbow6
+[TwitchNotifier] called manageTwitchModule action: add, value: rainbow6
+[Channel - Lions Chaotic Den/#stream-announcement] <ChaoticLion.exe> .addstream bungie
+[TwitchNotifier] called manageTwitchModule action: add, value: bungie
+[Channel - Lions Chaotic Den/#stream-announcement] <ChaoticLion.exe> .addstream thattokenguy
+[TwitchNotifier] called manageTwitchModule action: add, value: thattokenguy
+[[Debug]] thattokenguy new stream ONLINE, sending message
+[Channel - Lions Chaotic Den/#stream-announcement] <ChaoticLion.exe> .help
+[Discord] Sent help page
+[Channel - Lions Chaotic Den/#stream-announcement] <ChaoticLion.exe> .removestream thattokenguy
+[TwitchNotifier] called manageTwitchModule action: remove, value: thattokenguy
